@@ -3,7 +3,7 @@
 
 
 # Face-Recognition :boy: :movie_camera: 
-Face Recognition using KNN algorithm and open cv for python.This is a implementation of knn classifier.
+Face Recognition using KNN algorithm and open cv for python.This is a implementation of knn classifier
 ## Breakdown of the code for knn classifier
     1. Importing libraries
     2. Create some data for classification
