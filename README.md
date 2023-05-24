@@ -3,7 +3,7 @@
 
 
 # Face-Recognition :boy: :movie_camera: 
-Face Recognition using KNN algorithm and open cv for python.This is a implementation of knn classifier
+Face Recognition using KNN algorithm and open cv for python.This is a implementation of knn classifier.KNN (K-Nearest Neighbor) is a simple supervised classification algorithm we can use to assign a class to new data point. It can be used for regression as well, KNN does not make any assumptions on the data distribution, hence it is non-parametric.
 ## Breakdown of the code for knn classifier
     1. Importing libraries
     2. Create some data for classification
